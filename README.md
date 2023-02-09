@@ -49,12 +49,13 @@ Tim McEvoy, timothymcevoy@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+
 ## Photo
 
 ## Mentor
 Richard Gibbons, Graduate Student
 
-##Current Status
+## Current Status
 In Progress
 
 ## Project Overview
@@ -63,7 +64,7 @@ The TTC (or TT&C) is the communication module of the CubeSats from SpaceLab. It 
 
 The beacon is a independent sub-module who transmits a periodic signal containing an identification data (ID) of the satellite and some basic telemetry data. The telemetry sub-module is the main communication device. It has a bidirectional data link to receive telecommands from the earth and transmit all the requested data. The telemetry sub-module is controlled by an external device (as example, an OBDH module).
 
-##Educational Value Added
+## Educational Value Added
 This project will provide students the oppurtunity to learn schematic design, PCB board design, how to perform basic and advanced soldering, and a deeper insight into space electronics design.
 
 ## Tasks
