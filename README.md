@@ -43,7 +43,7 @@
 </p>
 
 ## Members
-Joe Esser, Electrical Engineering Student (2024), joeesser@vt.edu
+Joe Esser, Electrical Engineering Student (2024), joeesser@vt.edu <br>
 JT Jagoda, jtjagoda@vt.edu
 Tim McEvoy, timothymcevoy@vt.edu
 
