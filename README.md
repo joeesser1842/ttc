@@ -48,7 +48,7 @@ JT Jagoda, jtjagoda@vt.edu <br>
 Tim McEvoy, timothymcevoy@vt.edu <br>
 
 ## Repo Link
-<a class="button is-link" href="[https://magicmirror.builders/](https://github.com/joeesser1842/ttc)" >(https://github.com/joeesser1842/ttc)</a>
+<a class="button is-link" href="[https://magicmirror.builders/](https://github.com/joeesser1842/ttc)" >https://github.com/joeesser1842/ttc</a>
 
 ## Photo
 
