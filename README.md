@@ -44,8 +44,8 @@
 
 ## Members
 Joe Esser, Electrical Engineering Student (2024), joeesser@vt.edu <br>
-JT Jagoda, jtjagoda@vt.edu <br>
-Tim McEvoy, timothymcevoy@vt.edu <br>
+JT Jagoda, Mechanical Engineering Student (2025), jtjagoda@vt.edu <br>
+Tim McEvoy, Aerospace Engineering Student (2025), timothymcevoy@vt.edu <br>
 
 ## Repo Link
 <a class="button is-link" href="[https://magicmirror.builders/](https://github.com/joeesser1842/ttc)" >https://github.com/joeesser1842/ttc</a>
